@@ -1,0 +1,337 @@
+[
+  {
+    "category": "Admissions",
+    "question": "How can I apply for admission?",
+    "answer": "You can apply through the university's official online admission portal. Complete the application form, upload the required documents, and submit the application before the deadline."
+  },
+  {
+    "category": "Admissions",
+    "question": "What documents are required for admission?",
+    "answer": "Commonly required documents include your previous academic certificates, identity document, passport-size photographs, and any program-specific documents requested by the university."
+  },
+  {
+    "category": "Admissions",
+    "question": "Can I apply after the admission deadline?",
+    "answer": "Applications submitted after the deadline are normally not accepted unless the university officially announces an extension."
+  },
+  {
+    "category": "Admissions",
+    "question": "How can I check my admission application status?",
+    "answer": "Log in to the university admission portal and open the application status section to view the latest status of your application."
+  },
+  {
+    "category": "Admissions",
+    "question": "Is there an admission test?",
+    "answer": "Some programs require an admission test while others may use academic merit or another selection method. Check the requirements of your specific program."
+  },
+  {
+    "category": "Admissions",
+    "question": "Can I change my selected program after applying?",
+    "answer": "Program changes depend on university policy and available seats. Contact the admissions office if you need to request a change."
+  },
+  {
+    "category": "Fees",
+    "question": "How can I pay my semester fee?",
+    "answer": "You can pay the semester fee using the payment methods listed on your fee voucher or student portal, such as bank deposit or an approved online payment method."
+  },
+  {
+    "category": "Fees",
+    "question": "Where can I download my fee voucher?",
+    "answer": "Log in to your student portal and open the fee or finance section. If the voucher is not available, contact the accounts office."
+  },
+  {
+    "category": "Fees",
+    "question": "What happens if I miss the fee deadline?",
+    "answer": "A late fee or other restriction may apply according to university policy. Contact the accounts office as soon as possible."
+  },
+  {
+    "category": "Fees",
+    "question": "Can I pay my fee in installments?",
+    "answer": "Installment plans depend on university policy and approval. Contact the accounts office to check whether an installment option is available."
+  },
+  {
+    "category": "Academic",
+    "question": "How can I register for courses?",
+    "answer": "Use the student portal during the course registration period, select your available courses, and submit the registration according to the academic calendar."
+  },
+  {
+    "category": "Academic",
+    "question": "How can I drop a course?",
+    "answer": "Course withdrawal or dropping is allowed only within the period specified by the academic calendar and may require approval."
+  },
+  {
+    "category": "Academic",
+    "question": "Where can I find my class timetable?",
+    "answer": "Your timetable is usually available through the student portal or the department's official academic information system."
+  },
+  {
+    "category": "Academic",
+    "question": "How can I check my grades?",
+    "answer": "Log in to the student portal and open the results, grades, or academic record section."
+  },
+  {
+    "category": "Academic",
+    "question": "How is GPA calculated?",
+    "answer": "GPA is generally calculated as the weighted average of grade points based on the credit hours of your courses. The exact grading scale depends on the institution."
+  },
+  {
+    "category": "Academic",
+    "question": "What is a prerequisite course?",
+    "answer": "A prerequisite is a course that must be completed or passed before you can register for another course."
+  },
+  {
+    "category": "Academic",
+    "question": "What should I do if I fail a course?",
+    "answer": "Check your university's academic policy for repeat or improvement options. Your academic advisor or department office can guide you about the next available offering."
+  },
+  {
+    "category": "Attendance",
+    "question": "What is the minimum attendance requirement?",
+    "answer": "The minimum attendance requirement depends on the institution and course policy. Check your course outline or academic regulations for the exact percentage."
+  },
+  {
+    "category": "Attendance",
+    "question": "How can I check my attendance?",
+    "answer": "Attendance is commonly available through the student portal or the course attendance system. If your record appears incorrect, contact the course instructor."
+  },
+  {
+    "category": "Attendance",
+    "question": "What should I do if my attendance is marked incorrectly?",
+    "answer": "Contact your course instructor promptly and provide any relevant evidence so the attendance record can be reviewed."
+  },
+  {
+    "category": "Exams",
+    "question": "Where can I find the exam schedule?",
+    "answer": "Check the official university website, student portal, department notice board, or examination office announcements."
+  },
+  {
+    "category": "Exams",
+    "question": "What should I bring to an exam?",
+    "answer": "Bring your valid student or exam identification card and any materials explicitly permitted by the examination rules."
+  },
+  {
+    "category": "Exams",
+    "question": "What happens if I miss an exam?",
+    "answer": "Report the situation to the examination office or department immediately. Any makeup or special exam option depends on official policy."
+  },
+  {
+    "category": "Exams",
+    "question": "Can I request a rechecking of my result?",
+    "answer": "Many institutions provide a formal rechecking or paper-review process. Follow the official procedure and submit the request within the announced time period."
+  },
+  {
+    "category": "Library",
+    "question": "How can I borrow a book from the library?",
+    "answer": "Search for the book in the library catalog, locate it, and use your student or library card at the circulation desk according to library rules."
+  },
+  {
+    "category": "Library",
+    "question": "How can I renew a library book?",
+    "answer": "If renewals are allowed, use the library portal or contact the circulation desk before the due date."
+  },
+  {
+    "category": "Library",
+    "question": "What happens if I return a library book late?",
+    "answer": "A late fine or borrowing restriction may apply depending on library policy."
+  },
+  {
+    "category": "IT Support",
+    "question": "I forgot my student portal password. What should I do?",
+    "answer": "Use the portal's password-reset option if available. If you cannot reset it, contact the university IT support office."
+  },
+  {
+    "category": "IT Support",
+    "question": "How can I connect to campus Wi-Fi?",
+    "answer": "Select the official campus Wi-Fi network and sign in using the credentials provided by the university IT department."
+  },
+  {
+    "category": "IT Support",
+    "question": "What should I do if the student portal is not working?",
+    "answer": "Check your internet connection and try again after a short time. If the problem continues, contact IT support and provide a screenshot or error message."
+  },
+  {
+    "category": "Student Services",
+    "question": "How can I contact my academic advisor?",
+    "answer": "Check your department's official contact information or student portal for the advisor assigned to your program."
+  },
+  {
+    "category": "Student Services",
+    "question": "Where can I get a student certificate or transcript?",
+    "answer": "Request official documents through the student services, registrar, or examination office according to the university's document-request procedure."
+  },
+  {
+    "category": "Student Services",
+    "question": "How can I update my personal information?",
+    "answer": "Use the student portal if profile editing is available, or contact the registrar/student affairs office for changes that require verification."
+  },
+  {
+    "category": "Student Services",
+    "question": "How can I get a student ID card?",
+    "answer": "Contact the relevant student affairs or administration office and follow the ID-card issuance procedure."
+  },
+  {
+    "category": "General",
+    "question": "What is the purpose of this chatbot?",
+    "answer": "This chatbot provides quick answers to common university-related questions using NLP and similarity matching. For official decisions, always confirm information with the relevant university office."
+  },
+  {
+    "category": "General",
+    "question": "Can this chatbot answer every question?",
+    "answer": "No. It is designed for common FAQ-style questions. If your question is outside the available FAQ dataset or the similarity is too low, the chatbot will ask you to contact the relevant office."
+  },
+  {
+    "category": "General",
+    "question": "How does the chatbot understand my question?",
+    "answer": "The chatbot preprocesses the text, converts FAQ questions into TF-IDF vectors, and uses cosine similarity to find the FAQ that is most similar to your question."
+  },
+  {
+    "category": "General",
+    "question": "What technologies are used in this chatbot?",
+    "answer": "The project uses Python, Tkinter for the desktop interface, NLTK for text preprocessing, and scikit-learn for TF-IDF vectorization and cosine similarity."
+  },
+  {
+    "category": "General",
+    "question": "What is cosine similarity?",
+    "answer": "Cosine similarity measures how similar two text vectors are by comparing the angle between them. A higher value means the texts are more similar."
+  },
+  {
+    "category": "Admissions",
+    "question": "Can transfer students apply for admission?",
+    "answer": "Yes, transfer students can apply subject to the university's transfer credit and eligibility policy. Contact the admissions office to check which credits can be transferred."
+  },
+  {
+    "category": "Admissions",
+    "question": "Is there a separate process for international students?",
+    "answer": "International students usually follow a separate admission track requiring equivalence certificates, visa documents, and sometimes an additional English proficiency test. Check the international office for details."
+  },
+  {
+    "category": "Admissions",
+    "question": "When is the merit list announced?",
+    "answer": "The merit list is announced according to the schedule published on the admission portal, usually a few weeks after the application deadline closes."
+  },
+  {
+    "category": "Fees",
+    "question": "How can I apply for a scholarship or fee waiver?",
+    "answer": "Scholarship and fee-waiver applications are usually submitted through the student portal or financial aid office along with required income and academic documents before the announced deadline."
+  },
+  {
+    "category": "Fees",
+    "question": "Can I get a refund if I withdraw from the university?",
+    "answer": "Refunds depend on the university's refund policy and the stage at which you withdraw. Contact the accounts office for the exact refund percentage and process."
+  },
+  {
+    "category": "Fees",
+    "question": "Does the fee structure change every semester?",
+    "answer": "Fee structures are typically reviewed annually rather than every semester. Always check the latest fee voucher or official notice for the current amount."
+  },
+  {
+    "category": "Academic",
+    "question": "What happens if I am placed on academic probation?",
+    "answer": "Academic probation usually means your GPA is below the required threshold. You may need to improve your GPA within a set number of semesters as outlined in the academic policy, so consult your advisor promptly."
+  },
+  {
+    "category": "Academic",
+    "question": "How can I change my major or degree program?",
+    "answer": "Submit a program-change request through the registrar or student portal, subject to seat availability and eligibility criteria for the new program."
+  },
+  {
+    "category": "Academic",
+    "question": "Is there a limit on how many credit hours I can take per semester?",
+    "answer": "Yes, most universities set a minimum and maximum credit-hour load per semester. Check your academic calendar or advisor for the exact limit."
+  },
+  {
+    "category": "Academic",
+    "question": "Can I repeat a course to improve my grade?",
+    "answer": "Many universities allow a course repeat or improvement attempt within a specified number of tries. Check your academic policy for how the repeated grade is calculated in your GPA."
+  },
+  {
+    "category": "Attendance",
+    "question": "Can I get attendance relaxation for medical leave?",
+    "answer": "Some universities allow attendance condonation for documented medical emergencies. Submit a medical certificate to your instructor or department office as soon as possible."
+  },
+  {
+    "category": "Attendance",
+    "question": "What happens if my attendance falls below the required percentage?",
+    "answer": "You may be barred from sitting the exam for that course, depending on university policy. Contact your department early if you are close to the shortage limit."
+  },
+  {
+    "category": "Exams",
+    "question": "Where can I check my exam seating plan?",
+    "answer": "The seating plan is usually published on the notice board or student portal a few days before the exam. Check your roll number and room number carefully."
+  },
+  {
+    "category": "Exams",
+    "question": "What is the university's policy on cheating during exams?",
+    "answer": "Cheating or academic dishonesty during exams typically results in disciplinary action ranging from a failing grade to suspension, according to the academic integrity policy."
+  },
+  {
+    "category": "Exams",
+    "question": "How much weightage do midterm and final exams carry?",
+    "answer": "Weightage varies by course and is defined in the course outline, but midterms and finals commonly make up a significant portion of the final grade alongside assignments and quizzes."
+  },
+  {
+    "category": "Library",
+    "question": "Can I book a study room in the library?",
+    "answer": "Many libraries allow study-room bookings through an online reservation system or the front desk, subject to availability."
+  },
+  {
+    "category": "Library",
+    "question": "Does the library provide access to e-books and digital journals?",
+    "answer": "Most university libraries subscribe to digital databases and e-book collections accessible through the library portal using your student login."
+  },
+  {
+    "category": "Library",
+    "question": "How many books can I borrow at once?",
+    "answer": "The maximum number of books allowed depends on your library membership type. Check the library's borrowing policy or ask the circulation desk."
+  },
+  {
+    "category": "IT Support",
+    "question": "How can I access the Learning Management System (LMS)?",
+    "answer": "Log in to the LMS using your official student credentials. If you cannot access it, contact IT support to verify your account is active."
+  },
+  {
+    "category": "IT Support",
+    "question": "Can I print documents on campus?",
+    "answer": "Most campuses offer printing services in the library or computer labs, sometimes with a print quota. Check with the IT or library help desk for pricing and setup."
+  },
+  {
+    "category": "IT Support",
+    "question": "How can I access university resources off-campus using VPN?",
+    "answer": "Install the university's official VPN client and log in with your student credentials to securely access restricted resources from off-campus."
+  },
+  {
+    "category": "Student Services",
+    "question": "How can I apply for hostel or accommodation?",
+    "answer": "Accommodation applications are typically submitted through the student affairs or housing office along with the required fee before the announced deadline."
+  },
+  {
+    "category": "Student Services",
+    "question": "How can I join a student society or sports club?",
+    "answer": "Check the student affairs office or campus notice boards for society registration events, or contact the relevant club directly during the orientation period."
+  },
+  {
+    "category": "Student Services",
+    "question": "Who can I talk to if I am facing a personal or mental health issue?",
+    "answer": "Most universities provide a counseling or student wellness office. Reach out to student services for confidential support and guidance."
+  },
+  {
+    "category": "General",
+    "question": "Can I ask questions in Urdu?",
+    "answer": "Aap Roman Urdu mein bhi sawal pooch saktay hain, chatbot koshish karega samajhne ki. Best results ke liye simple aur clear alfaz istemal karein."
+  },
+  {
+    "category": "General",
+    "question": "Can I give feedback on a chatbot answer?",
+    "answer": "Yes, use the thumbs up or thumbs down button below any answer to let us know if it was helpful. This helps improve the FAQ dataset over time."
+  },
+  {
+    "category": "General",
+    "question": "Does this chatbot work without an internet connection?",
+    "answer": "Yes, this chatbot runs fully offline once installed, since it uses a local FAQ dataset and does not depend on an external API."
+  },
+  {
+    "category": "General",
+    "question": "Who developed this chatbot?",
+    "answer": "This chatbot was developed as Task 2 of the CodeAlpha Artificial Intelligence Internship, built with Python, Tkinter, NLTK, and scikit-learn."
+  }
+]
